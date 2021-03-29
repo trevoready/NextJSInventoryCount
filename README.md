@@ -1,2 +1,2 @@
 # NextJSInventoryCount
-An open app for couting inventory and generateing count sheets and labels
+An open app for counting inventory and generating count sheets and labels
